@@ -1,0 +1,22 @@
+body{
+ background-color: grey;
+ background-image:url("");
+ background-size:100%;
+ font-family:sans-serif;
+ color:white
+ }
+.tytul{
+ background-color:rgba(3,4, 85,0.5);
+ text-align: left;
+ }
+p{
+ color:rgba(255, 255, 255, 0.7);
+ front-size:80px
+ }
+*{
+ font-family:verdana;
+ }
+h5{
+ color:green;
+ }
+ 
